@@ -8,6 +8,9 @@
 
 ### Packages Rules
 
+#### Syntaxes Rules
+
+#### Templates Rules
 
 #### Tests Rules
 
