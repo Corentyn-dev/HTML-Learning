@@ -2,7 +2,7 @@
 
 ## Table of content
 
-### [Introduction](HomeRules.md#introduction)
+### [Introduction](#introduction)
 
 ### Helper Rules
 
