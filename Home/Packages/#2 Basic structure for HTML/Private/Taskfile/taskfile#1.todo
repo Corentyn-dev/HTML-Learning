@@ -1,25 +1,18 @@
-Exercices HTML
 
-Exercice 1: Structure d'une page HTML
+HTML Exercises
 
-Créez une structure de base pour une page HTML en utilisant les
-balises <html>, <head> et <body>.
+Exercise 1: HTML Page Structure
 
-Exercice 2: Balisage du contenu
+Create a basic structure for an HTML page using the <html>, <head>, and <body> tags.
 
-Utilisez les balises HTML appropriées pour créer un paragraphe de
-texte, un titre de niveau 1 et une liste non ordonnée avec au moins
-trois éléments.
+Exercise 2: Content Markup
 
-Exercice 3: Insérer une image
+Use appropriate HTML tags to create a paragraph of text, a level 1 heading, and an unordered list with at least three items.
 
-Insérez une image dans votre page HTML en utilisant la balise
-<img>. Assurez-vous que l'image est accessible et
-qu'elle est bien affichée.
+Exercise 3: Inserting an Image
 
-Exercice 4: Créer un lien hypertexte
+Insert an image into your HTML page using the <img> tag. Ensure the image is accessible and displayed correctly.
 
-Ajoutez un lien hypertexte vers une page externe de votre choix en
-utilisant la balise <a>. Assurez-vous que le lien
-fonctionne correctement.
+Exercise 4: Creating a Hyperlink
 
+Add a hyperlink to an external page of your choice using the <a> tag. Ensure the link works correctly.
