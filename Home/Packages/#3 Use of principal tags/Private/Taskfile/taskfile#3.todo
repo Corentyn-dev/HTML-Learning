@@ -1,0 +1,25 @@
+HTML Practice Exercises
+
+Exercise 1: HTML Page Structure
+
+Create a new HTML file named `index.html`. Write the basic structure of an HTML document including the `<html>`, `<head>`, `<title>`, and `<body>` tags. Add a title to the page and a simple paragraph of text within the body.
+
+Exercise 2 (Optional): Content Markup
+
+Enhance the HTML page created in Exercise 1 by adding additional content. Include a level 1 heading (`<h1>`) and an unordered list (`<ul>`) with at least three list items (`<li>`).
+
+Exercise 3: Hyperlinks
+
+Expand the HTML page by adding hyperlinks. Create a hyperlink (`<a>`) within the body of the page and link it to an external website of your choice. Ensure the link works correctly when clicked.
+
+Exercise 4 (Optional): Metadata
+
+For an extra challenge, add metadata to your HTML page. Use the `<meta>` tag within the `<head>` section to specify the character set and viewport settings. Research and include at least one other meta tag with a relevant attribute.
+
+Exercise 5 (Optional): CSS Styling
+
+If you're feeling confident, create a separate CSS file named `styles.css` and link it to your HTML page. Apply basic styling to the elements on your page, such as changing the font size, color, or background.
+
+Exercise 6 (Optional): Semantic HTML
+
+Explore semantic HTML elements such as `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`, etc. Refactor your HTML page to include these semantic elements where appropriate, improving the structure and accessibility of your document.
