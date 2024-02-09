@@ -1,33 +1,23 @@
-# Estructura básica de una página HTML
+# Uso de las Etiquetas Principales en HTML
 
 ## Índice
-1. [Declaración del tipo de documento](#declaración-del-tipo-de-documento)
-2. [Etiqueta HTML](#etiqueta-html)
-3. [Etiqueta Head](#etiqueta-head)
-4. [Etiqueta Title](#etiqueta-title)
-5. [Etiqueta Body](#etiqueta-body)
+1. [Etiqueta `<html>`](#etiqueta-html)
+2. [Etiqueta `<head>`](#etiqueta-head)
+3. [Etiqueta `<body>`](#etiqueta-body)
 
 ---
 
-## Declaración del tipo de documento
-La primera línea de una página HTML suele ser la declaración del tipo de documento, que le indica al navegador qué tipo de documento esperar. Esto se hace utilizando la etiqueta `<!DOCTYPE html>`.
+## Etiqueta `<html>`
+La etiqueta `<html>` es la etiqueta raíz de cualquier documento HTML. Todos los demás elementos HTML deben estar contenidos dentro de esta etiqueta. Normalmente contiene otras dos etiquetas principales: `<head>` y `<body>`.
 
 ---
 
-## Etiqueta HTML
-Toda la estructura de la página HTML está envuelta dentro de la etiqueta `<html>`, que le indica al navegador que el documento está escrito en HTML.
+## Etiqueta `<head>`
+La etiqueta `<head>` contiene metadatos sobre el documento HTML, como el título de la página, enlaces a hojas de estilo CSS, scripts JavaScript, etiquetas meta, etc. No muestra ningún contenido visible al usuario en la página web. En su lugar, se utiliza para proporcionar información al navegador sobre cómo procesar y renderizar la página.
 
 ---
 
-## Etiqueta Head
-La etiqueta `<head>` contiene metadatos sobre el documento HTML, como el título de la página, los enlaces a hojas de estilo CSS, scripts JavaScript, etiquetas meta, etc.
+## Etiqueta `<body>`
+La etiqueta `<body>` contiene todo el contenido visible de la página web, incluyendo texto, imágenes, enlaces, vídeos, etc. Aquí es donde se coloca y muestra la mayor parte del contenido de la página.
 
----
-
-## Etiqueta Title
-Dentro de la etiqueta `<head>`, la etiqueta `<title>` se utiliza para establecer el título de la página, que aparece en la pestaña del navegador o en la barra de título de la ventana.
-
----
-
-## Etiqueta Body
-La etiqueta `<body>` contiene todo el contenido visible de la página web, incluyendo texto, imágenes, enlaces, videos, etc. Aquí es donde se coloca la mayor parte del contenido de la página.
+Usando estas etiquetas principales de manera adecuada, puedes crear una estructura HTML bien organizada que permita a los navegadores renderizar correctamente tu contenido y proporcionar una experiencia de usuario consistente.
