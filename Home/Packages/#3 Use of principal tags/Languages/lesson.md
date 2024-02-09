@@ -1,33 +1,23 @@
-# Basic Structure of an HTML Page
+# Using Main Tags in HTML
 
 ## Table of Contents
-1. [Document Type Declaration](#document-type-declaration)
-2. [HTML Tag](#html-tag)
-3. [Head Tag](#head-tag)
-4. [Title Tag](#title-tag)
-5. [Body Tag](#body-tag)
+1. [Tag `<html>`](#tag-html)
+2. [Tag `<head>`](#tag-head)
+3. [Tag `<body>`](#tag-body)
 
 ---
 
-## Document Type Declaration
-The first line of an HTML page is usually the document type declaration, which tells the browser what type of document to expect. This is done using the `<!DOCTYPE html>` tag.
+## Tag `<html>`
+The `<html>` tag is the root tag of any HTML document. All other HTML elements must be contained within this tag. It typically contains two other main tags: `<head>` and `<body>`.
 
 ---
 
-## HTML Tag
-The entire structure of the HTML page is wrapped within the `<html>` tag, which tells the browser that the document is written in HTML.
+## Tag `<head>`
+The `<head>` tag contains metadata about the HTML document, such as the page title, links to CSS style sheets, JavaScript scripts, meta tags, etc. It doesn't display any visible content to the user on the web page. Instead, it's used to provide information to the browser on how to process and render the page.
 
 ---
 
-## Head Tag
-The `<head>` tag contains metadata about the HTML document, such as the page title, links to CSS style sheets, JavaScript scripts, meta tags, etc.
+## Tag `<body>`
+The `<body>` tag contains all the visible content of the web page, including text, images, links, videos, etc. This is where the majority of the page content is placed and displayed to the user.
 
----
-
-## Title Tag
-Within the `<head>` tag, the `<title>` tag is used to set the page title, which appears in the browser tab or window title bar.
-
----
-
-## Body Tag
-The `<body>` tag contains all the visible content of the web page, including text, images, links, videos, etc. This is where the majority of the page content is placed.
+By using these main tags appropriately, you can create a well-organized HTML structure that allows browsers to correctly render your content and provide a consistent user experience.
