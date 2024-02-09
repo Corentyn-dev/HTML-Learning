@@ -10,7 +10,7 @@ After completing an exercise, you can insert your result into a folder that you 
 
 For example:
 - If exercise 1 is completed, your result can be placed in "Other/your_username/1.html".
-- If exercise 2 is completed, your result can be placed in "Other/your_username/2.css".
+- If exercise 2 is completed, your result can be placed in "Other/your_username/2.html".
 - And so on.
 
 Make sure your results are correctly named and placed in the folder entitled "your_username", in the "Other" folder for better organization.
